@@ -8,5 +8,5 @@
 - 🌱 I’m currently learning IA at [Factoria F5](https://factoriaf5.org/)
 
 - 💬 Ask me about ...
-- 📫 How to reach me: [![Linkedin: Ignacio Castillo](https://img.shields.io/badge/-amargopastor-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ignacio-castillo-franco-7068447/)](www.linkedin.com/in/ignacio-castillo-franco-7068447)
+- 📫 How to reach me: 
 - ⚡ Fun fact: ...
