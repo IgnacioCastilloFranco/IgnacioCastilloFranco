@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning IA at [Factoria F5](https://factoriaf5.org/)
 
-## 🌐 Socials:
+### 🔗 &nbsp;Contact Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ignacio-castillo-franco) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:github_portfolio@outlook.es) 
 
 # 💻 Tech Stack:
