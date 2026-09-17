@@ -12,13 +12,7 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Software%20Developer;https://ignacio.software;Feel%20free%20to%20look%20around%20%F0%9F%91%80;Reach%20out%20if%20you%20need%20help!%20%F0%9F%92%AC&ACfont=Fira%20Code&center=true&width=440&height=45"></a>
 </p>
 
-
-<p align="center"><a href="https://github.com/IgnacioCastilloFranco/" align="center" ><img align="center"  alt="" src="https://visitor-badge.laobi.icu/badge?page_id=Abdalrahman-Alhamod.Abdalrahman-Alhamod"></a></p>
-
-
 ---
-
-- 🌱 I’m currently learning IA at [Factoria F5](https://factoriaf5.org/)
 
 ### 🔗 &nbsp;Contact Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ignacio-castillo-franco) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:github_portfolio@outlook.es) 
